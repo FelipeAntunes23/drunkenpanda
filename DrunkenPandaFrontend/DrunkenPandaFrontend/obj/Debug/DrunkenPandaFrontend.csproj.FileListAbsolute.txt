@@ -1,0 +1,178 @@
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\DrunkenPandaFrontend.dll.config
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\DrunkenPandaFrontend.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\DrunkenPandaFrontend.pdb
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\csc.exe
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\csc.exe.config
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\csc.rsp
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\csi.exe
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\csi.exe.config
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\csi.rsp
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.AppContext.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Console.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Globalization.Calendars.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.IO.Compression.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Net.Http.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Net.Sockets.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.ValueTuple.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Xml.XPath.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\vbc.exe
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\vbc.exe.config
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\vbc.rsp
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\VBCSCompiler.exe
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\obj\Debug\DrunkenPandaFrontend.csprojAssemblyReference.cache
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\obj\Debug\DrunkenPandaFrontend.csproj.CoreCompileInputs.cache
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\obj\Debug\DrunkenPandaFrontend.csproj.CopyComplete
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\obj\Debug\DrunkenPandaFrontend.dll
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\obj\Debug\DrunkenPandaFrontend.pdb
+E:\Projects\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\obj\Debug\DrunkenPandaFrontend.dll.licenses
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\DrunkenPandaFrontend.dll.config
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\DrunkenPandaFrontend.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\DrunkenPandaFrontend.pdb
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\csc.exe
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\csc.exe.config
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\csc.rsp
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\csi.exe
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\csi.exe.config
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\csi.rsp
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.AppContext.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Console.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Globalization.Calendars.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.IO.Compression.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Net.Http.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Net.Sockets.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.ValueTuple.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Xml.XPath.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\vbc.exe
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\vbc.exe.config
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\vbc.rsp
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\VBCSCompiler.exe
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\obj\Debug\DrunkenPandaFrontend.csprojResolveAssemblyReference.cache
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\obj\Debug\DrunkenPandaFrontend.dll.licenses
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\obj\Debug\DrunkenPandaFrontend.dll
+E:\Projects\Websites\Drunken Panda\Ref\DrunkenPanda\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\obj\Debug\DrunkenPandaFrontend.pdb
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\DrunkenPandaFrontend.dll.config
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\DrunkenPandaFrontend.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\DrunkenPandaFrontend.pdb
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\csc.exe
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\csc.exe.config
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\csc.rsp
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\csi.exe
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\csi.exe.config
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\csi.rsp
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.AppContext.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Console.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.IO.Compression.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Net.Http.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.ValueTuple.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\vbc.exe
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\vbc.exe.config
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\vbc.rsp
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\VBCSCompiler.exe
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\obj\Debug\DrunkenPandaFrontend.csprojAssemblyReference.cache
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\obj\Debug\DrunkenPandaFrontend.dll.licenses
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\obj\Debug\DrunkenPandaFrontend.csproj.CoreCompileInputs.cache
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\obj\Debug\DrunkenPandaFrontend.csproj.CopyComplete
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\obj\Debug\DrunkenPandaFrontend.dll
+C:\Users\dhanwin\Desktop\DrunkenPanda\DrunkenPandaFrontend\DrunkenPandaFrontend\obj\Debug\DrunkenPandaFrontend.pdb

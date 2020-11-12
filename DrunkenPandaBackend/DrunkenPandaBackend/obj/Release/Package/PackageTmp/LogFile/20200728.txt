@@ -1,0 +1,24 @@
+28-Jul-2020 12:20:59 PM: General Functions  :- sp_MastersError : Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'. - 
+28-Jul-2020 12:44:59 PM: General Functions  :- sp_MastersError : Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'. - 
+28-Jul-2020 1:26:58 PM: General Functions  :- sp_MastersError : Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'.
+Invalid column name 'ord_crt_ID'. - 

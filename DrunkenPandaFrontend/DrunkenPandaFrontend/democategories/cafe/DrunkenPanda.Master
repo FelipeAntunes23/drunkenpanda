@@ -1,0 +1,386 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="DrunkenPanda.master.cs" Inherits="DrunkenPandaFrontend.democategories.cafe.DrunkenPanda" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="keywords" content="HTML5 Template" />
+    <meta name="description" content="Drunken Panda - Premium Cafe" />
+    <meta name="author" content="drunkenpanda.com" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="../../images/fav.png" />
+
+    <!-- font -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:200,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900">
+    <link href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700,700i,900,900i|Condiment" rel="stylesheet">
+
+    <!-- Plugins -->
+    <link rel="stylesheet" type="text/css" href="../../css/plugins-css.css" />
+
+    <!-- Typography -->
+    <link rel="stylesheet" type="text/css" href="../../css/typography.css" />
+
+    <!-- Shortcodes -->
+    <link rel="stylesheet" type="text/css" href="../../css/shortcodes/shortcodes.css" />
+
+    <!-- Style -->
+    <link rel="stylesheet" type="text/css" href="../../css/style.css" />
+
+    <!-- cafe -->
+    <link rel="stylesheet" type="text/css" href="css/cafe.css" />
+
+    <!-- Responsive -->
+    <link rel="stylesheet" type="text/css" href="../../css/responsive.css" />
+
+    <!-- Style customizer -->
+    <link rel="stylesheet" type="text/css" href="../../css/skins/skin-gold.css" data-style="styles" />
+
+    <!-- LOAD JQUERY LIBRARY -->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
+
+    <!-- LOADING FONTS AND ICONS -->
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400%7CMontserrat:600%2C400%2C500" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+
+    <link rel="stylesheet" type="text/css" href="fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.css">
+    <!-- REVOLUTION STYLE SHEETS -->
+    <link rel="stylesheet" type="text/css" href="css/settings.css">
+    <!-- REVOLUTION LAYERS STYLES -->
+    <style></style>
+    <style type="text/css">
+        .immersion-box {
+            -webkit-box-shadow: 20px 30px 50px 0px rgba(0,0,0,0.35);
+            -moz-box-shadow: 20px 30px 50px 0px rgba(0,0,0,0.35);
+            box-shadow: 20px 30px 50px 0px rgba(0,0,0,0.35)
+        }
+    </style>
+
+    <!-- ADD-ONS CSS FILES -->
+    <link rel="stylesheet" type="text/css" media="all" href="css/typewriter.css" />
+
+    <!-- ADD-ONS JS FILES -->
+    <script type="text/javascript" src="js/revolution.addon.typewriter.min.js"></script>
+
+    <!-- REVOLUTION JS FILES -->
+    <script type="text/javascript" src="js/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="js/jquery.themepunch.revolution.min.js"></script>
+
+    <style>
+        .tp-caption.News-Title, .News-Title {
+            color: rgba(255,255,255,1.00);
+            font-size: 70px;
+            line-height: 60px;
+            font-weight: 400;
+            font-style: normal;
+            font-family: Roboto Slab;
+            text-decoration: none;
+            background-color: transparent;
+            border-color: transparent;
+            border-style: none;
+            border-width: 0px;
+            border-radius: 0 0 0 0px
+        }
+
+        .tp-caption.News-Subtitle, .News-Subtitle {
+            color: rgba(255,255,255,1.00);
+            font-size: 15px;
+            line-height: 24px;
+            font-weight: 300;
+            font-style: normal;
+            font-family: Roboto Slab;
+            text-decoration: none;
+            background-color: rgba(255,255,255,0);
+            border-color: transparent;
+            border-style: none;
+            border-width: 0px;
+            border-radius: 0 0 0 0px
+        }
+
+            .tp-caption.News-Subtitle:hover, .News-Subtitle:hover {
+                color: rgba(255,255,255,0.65);
+                text-decoration: none;
+                background-color: rgba(255,255,255,0);
+                border-color: transparent;
+                border-style: solid;
+                border-width: 0px;
+                border-radius: 0 0 0px 0
+            }
+    </style>
+
+    <style type="text/css">
+        #rev_slider_26_1 .zeus .tp-tab {
+            opacity: 1;
+            box-sizing: border-box
+        }
+
+        #rev_slider_26_1 .zeus .tp-tab-title {
+            display: block;
+            text-align: center;
+            background: rgba(0,0,0,0.25);
+            font-family: "Roboto Slab",serif;
+            font-weight: 700;
+            font-size: 13px;
+            line-height: 13px;
+            color: rgb(255,255,255);
+            padding: 9px 10px
+        }
+
+        #rev_slider_26_1 .zeus .tp-tab:hover .tp-tab-title, #rev_slider_26_1 .zeus .tp-tab.selected .tp-tab-title {
+            color: rgb(0,0,0);
+            background: rgba(255,255,255,1)
+        }
+    </style>
+
+    <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
+    <script type="text/javascript" src="js/extensions/revolution.extension.actions.min.js"></script>
+    <script type="text/javascript" src="js/extensions/revolution.extension.carousel.min.js"></script>
+    <script type="text/javascript" src="js/extensions/revolution.extension.kenburn.min.js"></script>
+    <script type="text/javascript" src="js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script type="text/javascript" src="js/extensions/revolution.extension.migration.min.js"></script>
+    <script type="text/javascript" src="js/extensions/revolution.extension.navigation.min.js"></script>
+    <script type="text/javascript" src="js/extensions/revolution.extension.parallax.min.js"></script>
+    <script type="text/javascript" src="js/extensions/revolution.extension.slideanims.min.js"></script>
+    <script type="text/javascript" src="js/extensions/revolution.extension.video.min.js"></script>
+
+
+    <script type="text/javascript">
+        function setREVStartSize(e) {
+            try {
+                e.c = jQuery(e.c); var i = jQuery(window).width(), t = 9999, r = 0, n = 0, l = 0, f = 0, s = 0, h = 0;
+                if (e.responsiveLevels && (jQuery.each(e.responsiveLevels, function (e, f) { f > i && (t = r = f, l = e), i > f && f > r && (r = f, n = e) }), t > r && (l = n)), f = e.gridheight[l] || e.gridheight[0] || e.gridheight, s = e.gridwidth[l] || e.gridwidth[0] || e.gridwidth, h = i / s, h = h > 1 ? 1 : h, f = Math.round(h * f), "fullscreen" == e.sliderLayout) { var u = (e.c.width(), jQuery(window).height()); if (void 0 != e.fullScreenOffsetContainer) { var c = e.fullScreenOffsetContainer.split(","); if (c) jQuery.each(c, function (e, i) { u = jQuery(i).length > 0 ? u - jQuery(i).outerHeight(!0) : u }), e.fullScreenOffset.split("%").length > 1 && void 0 != e.fullScreenOffset && e.fullScreenOffset.length > 0 ? u -= jQuery(window).height() * parseInt(e.fullScreenOffset, 0) / 100 : void 0 != e.fullScreenOffset && e.fullScreenOffset.length > 0 && (u -= parseInt(e.fullScreenOffset, 0)) } f = u } else void 0 != e.minHeight && f < e.minHeight && (f = e.minHeight); e.c.closest(".rev_slider_wrapper").css({ height: f })
+            } catch (d) { console.log("Failure at Presize of Slider:" + d) }
+        };</script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="wrapper">
+
+        <!--=================================
+         preloader -->
+
+        <div id="pre-loader">
+            <img src="../../images/pre-loader/loader-food.gif" alt="">
+        </div>
+
+        <!--=================================
+         preloader -->
+        <!--=================================
+         header -->
+        <form id="form1" runat="server">
+        <header id="header" class="header default fullWidth">
+
+            <!--=================================
+             mega menu -->
+
+            <div class="menu">
+                <!-- menu start -->
+                <nav id="menu" class="mega-menu">
+                    <!-- menu list items container -->
+                    <section class="menu-list-items">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-lg-12 col-md-12">
+                                    <!-- menu logo -->
+                                    <ul class="menu-logo">
+                                        <li>
+                                            <a href="../../index.aspx">
+                                                <img src="images/logo.png" alt="logo">
+                                            </a>
+                                        </li>
+                                    </ul>
+                                    <!-- menu links -->
+                                    <div class="menu-bar">
+                                        <ul class="menu-links">
+                                            <li><a href="../../index.aspx">Home </a></li>
+                                            <li><a href="about.aspx">About Us </a></li>
+                                            <li><a href="menu.aspx">Menu </a></li>
+                                            <li><a href="offers.aspx">Offers </a></li>
+                                            <li><a href="gallery.aspx">Gallery </a></li>
+                                            <li><a href="branch.aspx">Branches </a></li>
+                                            <li><a href="contact.aspx">Contact US </a></li>
+                                            <li class="pr-10"><a href="order.aspx" class="btn btn-primary">Order Now </a></li>
+                                            <li class="pr-15">|</li>
+                                        </ul>
+                                        <div class="search-cart">
+                                            <div class="shpping-cart">
+                                                <a class="cart-btn" href="#"><i class="fa fa-sign-in icon"></i>
+                                                    <!--<strong class="item">2</strong>-->
+                                                </a>
+
+                                                <div class="cart">
+                                                    <div class="cart-total">
+                                                        <asp:PlaceHolder ID="pnlIn" runat="server" Visible="true">
+                                                            <a class="button" href="login.aspx">Sign In</a>
+                                                            <a class="button black" href="login.aspx">Sign up</a>
+                                                        </asp:PlaceHolder>
+                                                        <asp:PlaceHolder ID="pnlOut" runat="server" Visible="false">
+                                                            <asp:LinkButton ID="lnkIn" runat="server" CssClass="button" OnClick="lnkIn_Click">Sign Out</asp:LinkButton>
+                                                        </asp:PlaceHolder>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </nav>
+                <!-- menu end -->
+            </div>
+        </header>
+
+        <!--=================================
+         header -->
+        
+            <div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </form>
+        <!--=================================
+         footer -->
+
+        <footer class="footer page-section-pt black-bg pt-40">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3  col-sm-6 xs-mb-30">
+                        <div class="footer-hedding">
+                            <h6 class="text-white mb-30 mt-10 text-uppercase">Follow us</h6>
+                            <div class="footer-social-big">
+                                <ul>
+                                    <li class="facebook"><a href="https://www.facebook.com/Drunkenpandakerala/" target="_blank"><i class="fa fa-facebook"></i><span>Facebook</span></a> </li>
+                                        <li class="instagram"><a href="https://www.instagram.com/invites/contact/?i=1py5p02nohvoa&utm_content=3qd76hs" target="_blank"><i class="fa fa-instagram"></i><span>Instagram</span> </a></li>
+                                    <li class="youtube"><a href="#"><i class="fa fa-youtube"></i><span>Youtube</span> </a></li>
+                                </ul>
+                                <p class="mt-20">Drunken panda is cafe concept created by a group of entrepreneurs. Main concept of it is to give an access to major continental and fast food to all over south india.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-sm-6 sm-mb-30">
+                        <div class="footer-useful-link footer-hedding">
+                            <h6 class="text-white mb-30 mt-10 text-uppercase">Navigation</h6>
+                            <ul>
+                                <li><a href="../../index.aspx">Home</a></li>
+                                <li><a href="about.aspx">About Us</a></li>
+                                <li><a href="menu.aspx">Menu</a></li>
+                                <li><a href="branch.aspx">Branches</a></li>
+                                <li><a href="contact.aspx">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-sm-6 sm-mb-30">
+                        <div class="footer-useful-link footer-hedding">
+                            <h6 class="text-white mb-30 mt-10 text-uppercase">Useful Link</h6>
+                            <ul>
+                                <li><a href="login.aspx">Create Account</a></li>
+                                <li><a href="#">Brand Policies</a></li>
+                                <li><a href="#">Privacy Policy</a></li>
+                                <li><a href="#">Terms & Conditions</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-5 col-sm-6 xs-mb-30">
+                        <div class="footer-hedding">
+                            <h6 class="text-white mb-30 mt-10 text-uppercase">Gallery</h6>
+                            <div class="footer-gallery clearfix">
+                                <ul>
+                                    <li><a href="#">
+                                        <img class="img-fluid" src="../../images/portfolio/small/01.jpg" alt="">
+                                    </a></li>
+                                    <li><a href="#">
+                                        <img class="img-fluid" src="../../images/portfolio/small/02.jpg" alt="">
+                                    </a></li>
+                                    <li><a href="#">
+                                        <img class="img-fluid" src="../../images/portfolio/small/03.jpg" alt="">
+                                    </a></li>
+                                    <li><a href="#">
+                                        <img class="img-fluid" src="../../images/portfolio/small/04.gif" alt="">
+                                    </a></li>
+                                    <li><a href="#">
+                                        <img class="img-fluid" src="../../images/portfolio/small/05.jpg" alt="">
+                                    </a></li>
+                                    <li><a href="#">
+                                        <img class="img-fluid" src="../../images/portfolio/small/06.jpg" alt="">
+                                    </a></li>
+                                    <li><a href="#">
+                                        <img class="img-fluid" src="../../images/portfolio/small/07.jpg" alt="">
+                                    </a></li>
+                                    <li><a href="#">
+                                        <img class="img-fluid" src="../../images/portfolio/small/08.gif" alt="">
+                                    </a></li>
+                                    <li><a href="#">
+                                        <img class="img-fluid" src="../../images/portfolio/small/09.jpg" alt="">
+                                    </a></li>
+                                    <li><a href="#">
+                                        <img class="img-fluid" src="../../images/portfolio/small/10.jpg" alt="">
+                                    </a></li>
+                                    <li><a href="#">
+                                        <img class="img-fluid" src="../../images/portfolio/small/01.jpg" alt="">
+                                    </a></li>
+                                    <li><a href="#">
+                                        <img class="img-fluid" src="../../images/portfolio/small/02.jpg" alt="">
+                                    </a></li>
+                                    <li><a href="#">
+                                        <img class="img-fluid" src="../../images/portfolio/small/03.jpg" alt="">
+                                    </a></li>
+                                    <li><a href="#">
+                                        <img class="img-fluid" src="../../images/portfolio/small/05.jpg" alt="">
+                                    </a></li>
+                                    <li><a href="#">
+                                        <img class="img-fluid" src="../../images/portfolio/small/06.jpg" alt="">
+                                    </a></li>
+                                    <li><a href="#">
+                                        <img class="img-fluid" src="../../images/portfolio/small/07.jpg" alt="">
+                                    </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="footer-widget mt-20">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6 xs-mb-20">
+                            <p class="mt-15">
+                                &copy;Copyright <span id="copyright">
+                                    <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script>
+                                </span>Design & Developed by<a href="http://sanjayps.com/"> Shash. </a>All Rights Reserved
+                            </p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <!--=================================
+         footer -->
+
+    </div>
+
+
+
+    <div id="back-to-top"><a class="top arrow" href="#top"><i class="fa fa-angle-up"></i><span>TOP</span></a></div>
+
+    <!--=================================
+     jquery -->
+    <!-- plugins-jquery -->
+    <script src="../../js/plugins-jquery.js"></script>
+
+    <!-- plugin_path -->
+    <script>var plugin_path = '../../js/';</script>
+
+    <!-- custom -->
+    <script src="../../js/custom.js"></script>
+</body>
+</html>

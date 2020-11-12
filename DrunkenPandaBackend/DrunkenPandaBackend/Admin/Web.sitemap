@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/default.aspx" title="Home" description="Home" >
+    <siteMapNode url="~/Admin/AdminDashboard.aspx" title="DashBoard" description="DashBoard" />
+  
+  <siteMapNode url="~/Admin/ManageUsers.aspx" title="Manage Users" description="Manage Users" xmlns="">
+    <siteMapNode url="~/Admin/Users.aspx" title="Users" description="Users" xmlns="" >
+      <siteMapNode url="~/Admin/AddEditUser.aspx" title="Add Edit Users" description="Add Edit Users" xmlns="" />
+      <siteMapNode url="~/Admin/UpdatePassword.aspx" title="Update Password" description="Update Password" xmlns="" />
+    </siteMapNode>
+    <siteMapNode url="~/Admin/UserRoles.aspx" title="User Roles" description="User Roles" xmlns="" />
+  </siteMapNode>
+  <siteMapNode url="~/Admin/ManageRoles.aspx" title="Manage Roles" description="Manage Roles" xmlns="">
+    <siteMapNode url="~/Admin/Roles.aspx" title="Roles" description="Roles" xmlns="" >
+      <siteMapNode url="~/Admin/AddRole.aspx" title="Add Edit Role" description="Add Edit Role" xmlns="" />
+    </siteMapNode>
+    <siteMapNode url="~/Admin/Security.aspx" title="View Security" description="View Security" xmlns=""/>
+  </siteMapNode>
+  <siteMapNode url="~/Admin/Masters.aspx" title="Masters" description="Masters" xmlns="">
+    <siteMapNode url="~/Admin/ListGroup.aspx" title="ListGroup" description="ListGroup" xmlns="">
+      <siteMapNode url="~/Admin/AddEditGroup.aspx" title="AddEditGroup" description="AddEditGroup" xmlns="" />
+      <siteMapNode url="~/Admin/GroupLogo.aspx" title="GroupLogo" description="GroupLogo" xmlns="" />
+    </siteMapNode>
+    <siteMapNode url="~/Admin/ListCompany.aspx" title="ListCompany" description="ListCompany" xmlns="">
+      <siteMapNode url="~/Admin/AddEditCompany.aspx" title="AddEditCompany" description="AddEditCompany" xmlns="" />
+      <siteMapNode url="~/Admin/CompanyLogo.aspx" title="CompanyLogo" description="CompanyLogo" xmlns="" />
+    </siteMapNode>
+    <siteMapNode url="~/Admin/ListCountries.aspx" title="ListCountries" description="ListCountries" xmlns="">
+      <siteMapNode url="~/Admin/AddEditCountries.aspx" title="AddEditCountries" description="AddEditCountries" xmlns="" />
+    </siteMapNode>
+  </siteMapNode>
+  
+  </siteMapNode>
+</siteMap>

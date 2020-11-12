@@ -1,0 +1,319 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F8788C62-F367-4B0B-A68F-654C5C605720}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DrunkenPandaFrontend</RootNamespace>
+    <AssemblyName>DrunkenPandaFrontend</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44329</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ecosoft.DAL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Ecosoft.DAL.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Telerik.Web.UI, Version=2019.2.514.45, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Telerik.Web.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="democategories\cafe\about.aspx" />
+    <Content Include="democategories\cafe\assets\100x50_16a58-off-01.jpg" />
+    <Content Include="democategories\cafe\assets\100x50_1a446-off-02.jpg" />
+    <Content Include="democategories\cafe\assets\100x50_aba73-off-03.jpg" />
+    <Content Include="democategories\cafe\assets\16a58-off-01.jpg" />
+    <Content Include="democategories\cafe\assets\1a446-off-02.jpg" />
+    <Content Include="democategories\cafe\assets\25c12-about.jpg" />
+    <Content Include="democategories\cafe\assets\aba73-off-03.jpg" />
+    <Content Include="democategories\cafe\assets\bluebar.png" />
+    <Content Include="democategories\cafe\assets\coloredbg.png" />
+    <Content Include="democategories\cafe\assets\food1.jpg" />
+    <Content Include="democategories\cafe\assets\food2.jpg" />
+    <Content Include="democategories\cafe\assets\food3.jpg" />
+    <Content Include="democategories\cafe\assets\food4.jpg" />
+    <Content Include="democategories\cafe\assets\food6.jpg" />
+    <Content Include="democategories\cafe\assets\food7.jpg" />
+    <Content Include="democategories\cafe\assets\loader.gif" />
+    <Content Include="democategories\cafe\assets\recommended.png" />
+    <Content Include="democategories\cafe\assets\transparent.png" />
+    <Content Include="democategories\cafe\branch.aspx" />
+    <Content Include="democategories\cafe\contact.aspx" />
+    <Content Include="democategories\cafe\css\cafe.css" />
+    <Content Include="democategories\cafe\css\closedhand.cur" />
+    <Content Include="democategories\cafe\css\openhand.cur" />
+    <Content Include="democategories\cafe\css\settings.css" />
+    <Content Include="democategories\cafe\css\typewriter.css" />
+    <Content Include="democategories\cafe\fonts\font-awesome\css\font-awesome.css" />
+    <Content Include="democategories\cafe\fonts\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="democategories\cafe\fonts\pe-icon-7-stroke\css\helper.css" />
+    <Content Include="democategories\cafe\fonts\pe-icon-7-stroke\css\pe-icon-7-stroke.css" />
+    <Content Include="democategories\cafe\fonts\pe-icon-7-stroke\fonts\Pe-icon-7-stroke.svg" />
+    <Content Include="democategories\cafe\fonts\revicons\revicons.svg" />
+    <Content Include="democategories\cafe\gallery.aspx" />
+    <Content Include="democategories\cafe\images\01.jpg" />
+    <Content Include="democategories\cafe\images\02.jpg" />
+    <Content Include="democategories\cafe\images\03.jpg" />
+    <Content Include="democategories\cafe\images\04.jpg" />
+    <Content Include="democategories\cafe\images\05.jpg" />
+    <Content Include="democategories\cafe\images\06.jpg" />
+    <Content Include="democategories\cafe\images\07.jpg" />
+    <Content Include="democategories\cafe\images\08.jpg" />
+    <Content Include="democategories\cafe\images\bg-02.png" />
+    <Content Include="democategories\cafe\images\bg-03.jpg" />
+    <Content Include="democategories\cafe\images\bg-03.png" />
+    <Content Include="democategories\cafe\images\bg.png" />
+    <Content Include="democategories\cafe\images\bg\01.jpg" />
+    <Content Include="democategories\cafe\images\bg\02.jpg" />
+    <Content Include="democategories\cafe\images\bg\03.jpg" />
+    <Content Include="democategories\cafe\images\bg\04.jpg" />
+    <Content Include="democategories\cafe\images\bg\05.jpg" />
+    <Content Include="democategories\cafe\images\bg\06.jpg" />
+    <Content Include="democategories\cafe\images\bg\07.jpg" />
+    <Content Include="democategories\cafe\images\cup-stain.png" />
+    <Content Include="democategories\cafe\images\logo.png" />
+    <Content Include="democategories\cafe\images\paper-tile.jpg" />
+    <Content Include="democategories\cafe\images\product\01.jpg" />
+    <Content Include="democategories\cafe\images\product\02.jpg" />
+    <Content Include="democategories\cafe\images\product\03.jpg" />
+    <Content Include="democategories\cafe\images\signature.png" />
+    <Content Include="democategories\cafe\images\team\01.jpg" />
+    <Content Include="democategories\cafe\images\team\02.jpg" />
+    <Content Include="democategories\cafe\images\team\03.jpg" />
+    <Content Include="democategories\cafe\images\world-map.png" />
+    <Content Include="democategories\cafe\js\extensions\revolution.extension.actions.min.js" />
+    <Content Include="democategories\cafe\js\extensions\revolution.extension.carousel.min.js" />
+    <Content Include="democategories\cafe\js\extensions\revolution.extension.kenburn.min.js" />
+    <Content Include="democategories\cafe\js\extensions\revolution.extension.layeranimation.min.js" />
+    <Content Include="democategories\cafe\js\extensions\revolution.extension.migration.min.js" />
+    <Content Include="democategories\cafe\js\extensions\revolution.extension.navigation.min.js" />
+    <Content Include="democategories\cafe\js\extensions\revolution.extension.parallax.min.js" />
+    <Content Include="democategories\cafe\js\extensions\revolution.extension.slideanims.min.js" />
+    <Content Include="democategories\cafe\js\extensions\revolution.extension.video.min.js" />
+    <Content Include="democategories\cafe\js\jquery.revslider-highlight-carousel27.js" />
+    <Content Include="democategories\cafe\js\jquery.revslider-immersion-design21.js" />
+    <Content Include="democategories\cafe\js\jquery.revslider-le-chef-food9.js" />
+    <Content Include="democategories\cafe\js\jquery.revslider.embed.js" />
+    <Content Include="democategories\cafe\js\jquery.themepunch.enablelog.js" />
+    <Content Include="democategories\cafe\js\jquery.themepunch.revolution.min.js" />
+    <Content Include="democategories\cafe\js\jquery.themepunch.tools.min.js" />
+    <Content Include="democategories\cafe\js\revolution.addon.typewriter.min.js" />
+    <Content Include="democategories\cafe\login.aspx" />
+    <Content Include="democategories\cafe\menu.aspx" />
+    <Content Include="democategories\cafe\offers.aspx" />
+    <Content Include="democategories\cafe\order.aspx" />
+    <Content Include="democategories\cafe\passwordrecovery.aspx" />
+    <Content Include="index.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="democategories\cafe\about.aspx.cs">
+      <DependentUpon>about.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="democategories\cafe\about.aspx.designer.cs">
+      <DependentUpon>about.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="democategories\cafe\admin\General.cs" />
+    <Compile Include="democategories\cafe\admin\GeneralFunctions.cs" />
+    <Compile Include="democategories\cafe\branch.aspx.cs">
+      <DependentUpon>branch.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="democategories\cafe\branch.aspx.designer.cs">
+      <DependentUpon>branch.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="democategories\cafe\contact.aspx.cs">
+      <DependentUpon>contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="democategories\cafe\contact.aspx.designer.cs">
+      <DependentUpon>contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="democategories\cafe\DrunkenPanda.Master.cs">
+      <DependentUpon>DrunkenPanda.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="democategories\cafe\DrunkenPanda.Master.designer.cs">
+      <DependentUpon>DrunkenPanda.Master</DependentUpon>
+    </Compile>
+    <Compile Include="democategories\cafe\gallery.aspx.cs">
+      <DependentUpon>gallery.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="democategories\cafe\gallery.aspx.designer.cs">
+      <DependentUpon>gallery.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="democategories\cafe\login.aspx.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="democategories\cafe\login.aspx.designer.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="democategories\cafe\menu.aspx.cs">
+      <DependentUpon>menu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="democategories\cafe\menu.aspx.designer.cs">
+      <DependentUpon>menu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="democategories\cafe\offers.aspx.cs">
+      <DependentUpon>offers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="democategories\cafe\offers.aspx.designer.cs">
+      <DependentUpon>offers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="democategories\cafe\order.aspx.cs">
+      <DependentUpon>order.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="democategories\cafe\order.aspx.designer.cs">
+      <DependentUpon>order.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="democategories\cafe\passwordrecovery.aspx.cs">
+      <DependentUpon>passwordrecovery.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="democategories\cafe\passwordrecovery.aspx.designer.cs">
+      <DependentUpon>passwordrecovery.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="democategories\cafe\UICommoncs.cs" />
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="democategories\cafe\DrunkenPanda.Master" />
+    <Content Include="democategories\cafe\fonts\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="democategories\cafe\fonts\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="democategories\cafe\fonts\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="democategories\cafe\fonts\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="democategories\cafe\fonts\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="democategories\cafe\fonts\pe-icon-7-stroke\fonts\Pe-icon-7-stroke.eot" />
+    <Content Include="democategories\cafe\fonts\pe-icon-7-stroke\fonts\Pe-icon-7-stroke.ttf" />
+    <Content Include="democategories\cafe\fonts\pe-icon-7-stroke\fonts\Pe-icon-7-stroke.woff" />
+    <Content Include="democategories\cafe\fonts\revicons\revicons.eot" />
+    <Content Include="democategories\cafe\fonts\revicons\revicons.ttf" />
+    <Content Include="democategories\cafe\fonts\revicons\revicons.woff" />
+    <Content Include="democategories\cafe\scss\cafe.scss" />
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="democategories\cafe\Logfile\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>52661</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44329/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

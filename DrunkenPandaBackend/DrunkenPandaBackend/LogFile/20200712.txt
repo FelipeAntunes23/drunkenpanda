@@ -1,0 +1,44 @@
+12-07-2020 18:04:34: General Functions  :- sp_MastersError : Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'. - 
+12-07-2020 18:04:51: General Functions  :- sp_MastersError : Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'. - 
+12-07-2020 18:11:12: General Functions  :- sp_MastersError : Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'. - 
+12-07-2020 18:45:25: General Functions  :- sp_MastersError : Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_usr_ID'.
+Invalid column name 'uar_State'. - 
